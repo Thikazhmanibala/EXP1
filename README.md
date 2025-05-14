@@ -55,9 +55,6 @@ Step 7: Finalize and Export
 7.2 Export as PDF or desired format
 7.3 Prepare a brief presentation if required (optional)
 
-
-
-# Output
 # Output
 # 1. Introduction
 
